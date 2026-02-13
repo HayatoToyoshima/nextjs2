@@ -64,7 +64,7 @@ export default function Page() {
             <div className="container">
               <h2>お問い合わせ</h2>
               <p>メール：example@example.com</p>
-              <p>電話：03-1234-5678</p>
+              <p>電話：00-0000-0000</p>
             </div>
           </section>
         );
@@ -77,7 +77,7 @@ export default function Page() {
         <div className="container">
           <h1 className="title">Fast LP株式会社</h1>
           <p className="subtitle">
-            シンプルで高速なWebソリューションを提供します
+            シンプルで高速なWebソリューションを提供する架空の企業です。
           </p>
         </div>
       </section>
