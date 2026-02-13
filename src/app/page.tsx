@@ -13,6 +13,7 @@ export default function Home() {
           priority
         />        
         <div>this is test</div>
+        <div>2026</div>
       </main>
     </div>
   );
