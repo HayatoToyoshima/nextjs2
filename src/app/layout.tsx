@@ -3,8 +3,8 @@ import "./globals.css";
 import { ReactNode } from "react";
 
 export const metadata = {
-  title: "Fast LP",
-  description: "Next.jsで作成された高速な静的ランディングページ",
+  title: "Fast LP株式会社",
+  description: "Next.jsで作成されたシンプルなSPAコーポレートサイト",
 };
 
 export default function RootLayout({
